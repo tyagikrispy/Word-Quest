@@ -24,3 +24,7 @@ Firstly, we need to provide n(number of rows) and m(number of coloumns).
 Next, Enter all the characters present in the board.
 Then, provide the number of words.
 Provide all the words.
+
+
+License
+This project is licensed under the MIT License.
