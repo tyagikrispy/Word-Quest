@@ -12,9 +12,9 @@ The objective is to find and form as many words as possible from the given set o
 
 Features
 
-Integration of tries for efficient word validation and search
+Integration of tries for efficient word validation and search.
 
-Utilization of DFS and backtracking algorithms for board exploration
+Utilization of DFS and backtracking algorithms for board exploration.
 
 
 
