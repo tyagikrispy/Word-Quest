@@ -11,12 +11,16 @@ The objective is to find and form as many words as possible from the given set o
 Features
 
 Integration of tries for efficient word validation and search
+
 Utilization of DFS and backtracking algorithms for board exploration
 
 
 Input Format
 
 Firstly, we need to provide n(number of rows) and m(number of coloumns). 
+
 Next, Enter all the characters present in the board.
+
 Then, provide the number of words.
+
 Provide all the words.
